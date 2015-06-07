@@ -1,1 +1,1 @@
-1.0;http://happs.gtz.kr;true;공지사항
+1.0;http://happs.gtz.kr;false;공지사항
