@@ -1,4 +1,4 @@
-1.5;http://happs.gtz.kr/apk/NHFoodAlarm1.5.apk;true;우선, 업데이트가 늦어져서 죄송합니다 ㅠㅠ..
+1.5;http://happs.gtz.kr/apk/NHFoodAlarm1.5.apk;true;업데이트가 늦어져서 죄송합니다 ㅠㅠ..
 
 새로운 버전에서는 아래와 같은 기능들이 수정되었습니다.
 
@@ -8,5 +8,6 @@
 4. 외박과 관련된 알람기능추가 (설정화면에서 설정가능)
 5. 기타오류수정
 
-사용 중 문제가 있는 경우 leesnhyun@naver.com 으로 문의주시면 감사하겠습니다! 
-모두들 즐거운 방학 되시길 바랍니다! 감사합니다.;false
+사용 중 문제가 있는 경우 leesnhyun@naver.com 으로 문의주시면 감사하겠습니다.
+
+모두들 즐거운 방학 되시길 바랍니다. 감사합니다!;false
