@@ -1,4 +1,4 @@
-1.5;http://happs.gtz.kr/apk/NHFoodAlarm1.5.apk;true;업데이트가 늦어져서 죄송합니다 ㅠㅠ..
+1.5;http://happs.gtz.kr/apk/NHFoodAlarm1.5.apk;false;업데이트가 늦어져서 죄송합니다 ㅠㅠ..
 
 새로운 버전에서는 아래와 같은 기능들이 수정되었습니다.
 
