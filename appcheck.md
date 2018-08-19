@@ -1,4 +1,4 @@
-1.7;http://happs.gtz.kr/apk/NHFoodAlarm1.6.apk;false;안녕하세요.
+1.8;http://happs.gtz.kr/apk/NHFoodAlarm1.6.apk;false;안녕하세요.
 
 2016년 농협장학관 입사를 축하드리며,
 차기 업데이트 일정을 알려드리고자 합니다. 
